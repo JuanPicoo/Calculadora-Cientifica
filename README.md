@@ -1,2 +1,2 @@
 # Calculadora-Cientifica
-Calculadora SemiCientifica
+Calculadora 
